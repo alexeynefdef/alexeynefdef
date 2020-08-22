@@ -6,8 +6,11 @@
 - ⚡ Fun fact: I'm collecting vinyl
 
 ### Connect with me:
-[<img align="left" alt="codeSTACKr | LinkedIn" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="LinkedIn" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Instagram" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+
+
 
 
 
@@ -22,11 +25,6 @@
 [<img align="left" alt="Terminal" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"/>][terminal]
 [<img align="left" alt="Linux" width="46px" src="https://images.all-free-download.com/images/graphiclarge/linux_tux_0_82350.jpg"/>][linux]
 
-
-
-
-<br />
-<br />
 <br />
 
 [instagram]: https://instagram.com/ick.bin
