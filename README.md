@@ -12,13 +12,13 @@
 <br />
 
 ### Languages and Tools:
-[<img align="left" alt="Java" width="36px" src="https://img.icons8.com/all/500/java-coffee-cup-logo.png"/>][java]
-[<img align="left" alt="IntellijIDEA" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/intellij-idea-1-logo-black-and-white.png"/>][idea]
+[<img align="left" alt="Java" width="46px" src="https://img.icons8.com/all/500/java-coffee-cup-logo.png"/>][java]
+[<img align="left" alt="IntellijIDEA" width="46px" src="https://cdn.freebiesupply.com/logos/large/2x/intellij-idea-1-logo-black-and-white.png"/>][idea]
 
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"/>][git]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"/>][github]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"/>][terminal]
-[<img align="left" alt="Linux" width="26px" src="https://lh3.googleusercontent.com/proxy/uXKCcEodYPbt10bOABDSFbzMlnxyISb9llTnm_OaDZmz5TBks3NQUQvt3u573neomOMNMC6-MoFJeUhrkaqMkkplFxHSw96r_4LIdYHG0QRXk33hK-rtvSo"/>][linux]
+[<img align="left" alt="Git" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"/>][git]
+[<img align="left" alt="GitHub" width="46px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"/>][github]
+[<img align="left" alt="Terminal" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"/>][terminal]
+[<img align="left" alt="Linux" width="46px" src="https://lh3.googleusercontent.com/proxy/uXKCcEodYPbt10bOABDSFbzMlnxyISb9llTnm_OaDZmz5TBks3NQUQvt3u573neomOMNMC6-MoFJeUhrkaqMkkplFxHSw96r_4LIdYHG0QRXk33hK-rtvSo"/>][linux]
 
 <br />
 
