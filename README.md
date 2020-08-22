@@ -5,11 +5,13 @@
 - 👯 I’m looking to collaborate with other frontend and backend developers
 - ⚡ Fun fact: I'm collecting vinyl
 
+<br />
+
 ### Connect with me:
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-
+<br />
 
 ### Languages and Tools:
 [<img align="left" alt="Java" width="26px" src="https://c7.hotpng.com/preview/405/878/407/java-runtime-environment-computer-icons-java-platform-standard-edition-java.jpg"/>][java]
@@ -24,6 +26,7 @@
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"/>][terminal]
 [<img align="left" alt="Linux" width="26px" src="https://lh3.googleusercontent.com/proxy/uXKCcEodYPbt10bOABDSFbzMlnxyISb9llTnm_OaDZmz5TBks3NQUQvt3u573neomOMNMC6-MoFJeUhrkaqMkkplFxHSw96r_4LIdYHG0QRXk33hK-rtvSo"/>][linux]
 
+<br />
 
 [instagram]: https://instagram.com/ick.bin
 [linkedin]: https://linkedin.com/in/aleksei-nefedov-125409163
