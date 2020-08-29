@@ -14,7 +14,7 @@
 <br />
 
 ### Languages and Tools:
-[<img align="left" alt="Java" width="46px" src="https://img.icons8.com/all/500/java-coffee-cup-logo.png"/>][java]
+[<img align="left" alt="Java" width="46px" src="https://e7.pngegg.com/pngimages/570/719/png-clipart-java-scalable-graphics-computer-icons-java-logo-hand-monochrome.png"/>][java]
 [<img align="left" alt="IntellijIDEA" width="46px" src="https://cdn.freebiesupply.com/logos/large/2x/intellij-idea-1-logo-black-and-white.png"/>][idea]
 
 [<img align="left" alt="Git" width="46px" src="https://git-scm.com/images/logos/downloads/Git-Icon-Black.png"/>][git]
