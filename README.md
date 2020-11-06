@@ -1,7 +1,6 @@
 ### Hi there, I'm Alex 👋
 
-- 🔭 I’m currently working on a Tattoo studio's web site
-- 🌱 I’m currently learning Java
+- 🔭 I’m currently working on a AmalgamaLabTelegramBot
 - 👯 I’m looking to collaborate with other frontend and backend developers
 - ⚡ Fun fact: I'm collecting vinyl
 
