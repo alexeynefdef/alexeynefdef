@@ -1,8 +1,7 @@
 ### Hi there, I'm Alex 👋
 
-- 🔭 I’m currently working on a AmalgamaLabTelegramBot
+- 🔭 I’m currently working on a LyricsDiggerTelegramBot
 - 👯 I’m looking to collaborate with other frontend and backend developers
-- ⚡ Fun fact: I'm collecting vinyl
 
 ### Connect with me:
 [<img align="left" alt="LinkedIn" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
