@@ -1,8 +1,5 @@
 ### Hi there, I'm Alex 👋
 
-- 🔭 I’m currently working on a LyricsDiggerTelegramBot
-- 👯 I’m looking to collaborate with other frontend and backend developers
-
 ### Connect with me:
 [<img align="left" alt="LinkedIn" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Instagram" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -23,7 +20,7 @@
 <br />
 
 [instagram]: https://instagram.com/ick.bin
-[linkedin]: https://linkedin.com/in/aleksei-nefedov-125409163
+[linkedin]: https://www.linkedin.com/in/alexeynefdev
 [java]: https://en.wikipedia.org/wiki/Java_(programming_language)
 [idea]: https://en.wikipedia.org/wiki/IntelliJ_IDEA
 [git]: https://en.wikipedia.org/wiki/Git
